@@ -1,0 +1,33 @@
+.Music {
+  padding: 8rem 7% 1.4rem;
+}
+
+.Music h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 2rem;
+}
+
+.Music h2 span {
+  color: #bd0d0d;
+}
+
+.Music {
+  padding: 8rem 7% 1rem;
+}
+
+iframe{
+  width: 100%;
+  height: 800;
+  object-fit: contain;
+  object-position: bottom;
+}
+
+.scrol-up a {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 15px;
+  color: #fff;
+  right: 20px;
+}
